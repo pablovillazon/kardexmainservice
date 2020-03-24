@@ -1,2 +1,2 @@
-# kardexmainservice
-Kardex API Main Service
+# kudoq2service
+Implementation for Kudos API REST
